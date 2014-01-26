@@ -1,0 +1,7 @@
+Interval: 300
+Random Broadcasting: false
+Weighted Broadcasting: false
+Prefix: '&4[&aBroadcast&4]&7: '
+Messages:
+  - '&4This is an example message!'
+  - '&eThis is an example of a weighted message!;2'

@@ -1,9 +1,7 @@
 name: BroadcastIt
 version: v1.0
-author: [DarkSeraphim]
-main: net.darkseraphim.broadcast.Main
-
+author: [superckl]
+main: org.sensationcraft.broadcastit.BroadcastIt
 commands: 
   broadcastit:
-    default: op
     aliases: [bit]
