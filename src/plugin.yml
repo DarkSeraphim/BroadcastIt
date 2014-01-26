@@ -1,0 +1,9 @@
+name: BroadcastIt
+version: v1.0
+author: [DarkSeraphim]
+main: net.darkseraphim.broadcast.Main
+
+commands: 
+  broadcastit:
+    default: op
+    aliases: [bit]
